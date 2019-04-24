@@ -1,0 +1,25 @@
+﻿  Game.cpp
+c:\users\edward\source\repos\space_invaders\space_invaders\bullet.h(13): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\edward\source\repos\space_invaders\space_invaders\player.h(24): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(42): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(87): warning C4305: =: усечение из "double" в "float"
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(109): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(133): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\edward\source\repos\space_invaders\space_invaders\game.cpp(205): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  0 of 108 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Space_Invaders.vcxproj -> C:\Users\Edward\source\repos\Space_Invaders\Release\Space_Invaders.exe
